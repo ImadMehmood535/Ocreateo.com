@@ -17928,3 +17928,6 @@ label {
 }
 
 /*# sourceMappingURL=main.css.map */
+.contact-info-icon svg path {
+  fill: white;
+}
